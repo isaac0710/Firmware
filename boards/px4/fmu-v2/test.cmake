@@ -36,7 +36,7 @@ px4_add_board(
 		imu/mpu6000
 		imu/mpu9250
 		#iridiumsbd
-		#irlock
+		irlock
 		#lights/blinkm
 		#lights/oreoled
 		lights/rgbled
@@ -73,7 +73,7 @@ px4_add_board(
 		land_detector
 		landing_target_estimator
 		load_mon
-		#local_position_estimator
+		local_position_estimator
 		logger
 		mavlink
 		mc_att_control
